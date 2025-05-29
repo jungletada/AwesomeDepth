@@ -15,5 +15,5 @@ Dingjie PENG*, Junpei XUE*
   [Arxiv](https://arxiv.org/abs/2410.02073), [Code](https://github.com/apple/ml-depth-pro)
 - Always Clear Depth: Robust Monocular Depth Estimation under Adverse Weather  
  [Arxiv](https://arxiv.org/abs/2505.12199v1),  [Code: None]()
--  AWDepth: Monocular Depth Estimation for Adverse Weather via Masked Encoding 
+- AWDepth: Monocular Depth Estimation for Adverse Weather via Masked Encoding    
  [TII2024](https://ieeexplore.ieee.org/document/10535040),  [Code: None]()
