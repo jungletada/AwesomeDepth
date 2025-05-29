@@ -5,7 +5,8 @@ Dingjie PENG*, Junpei XUE*
 
 ----
 
-- Robust Monocular Depth Estimation under Challenging Conditions [ICCV2023](https://openaccess.thecvf.com/content/ICCV2023/html/Gasperini_Robust_Monocular_Depth_Estimation_under_Challenging_Conditions_ICCV_2023_paper.html), [Code](https://github.com/md4all/md4all)  
+- Robust Monocular Depth Estimation under Challenging Conditions   
+  [ICCV2023](https://openaccess.thecvf.com/content/ICCV2023/html/Gasperini_Robust_Monocular_Depth_Estimation_under_Challenging_Conditions_ICCV_2023_paper.html), [Code](https://github.com/md4all/md4all)  
 -  Diffusion Models for Monocular Depth Estimation: Overcoming Challenging Conditions  
   [ECCV2024](https://arxiv.org/abs/2407.16698),  [Code](https://github.com/fabiotosi92/Diffusion4RobustDepth)
 -  [WeatherDepth: Curriculum Contrastive Learning for Self-Supervised Depth Estimation under Adverse Weather Conditions]  
