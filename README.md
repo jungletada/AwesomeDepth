@@ -16,7 +16,8 @@ Dingjie PENG*, Junpei XUE*
   [ICRA2024](https://ieeexplore.ieee.org/abstract/document/10611100),  [Code](https://github.com/wangjiyuan9/WeatherDepth)
 - Depth Pro: Sharp Monocular Metric Depth in Less Than a Second  
   [Arxiv](https://arxiv.org/abs/2410.02073), [Code](https://github.com/apple/ml-depth-pro)
-
+- Digging into Contrastive Learning for Robust Depth Estimation with Diffusion Models  
+  [ACM MM2024](https://dl.acm.org/doi/abs/10.1145/3664647.3681168)
 ## Others
 - Always Clear Depth: Robust Monocular Depth Estimation under Adverse Weather  
  [Arxiv](https://arxiv.org/abs/2505.12199v1),  [Code: None]()
