@@ -1,0 +1,20 @@
+EXPERIMENT_NAME: 'eval-md4allADa-80m-nuscenes-val'
+
+SYSTEM:
+  BENCHMARK: False
+
+LOAD:
+  CHECKPOINT_PATH: 'checkpoints/md4allADa_nuscenes.ckpt'
+
+DATASET:
+  AUGMENTATION:
+    NORMALIZE:
+      MODE: 'Daytime'
+
+EVALUATION:
+  BATCH_SIZE: 1
+  SAVE:
+    QUANTITATIVE_RES_PATH: 'results/quantitative/nuscenes/val/md4allADa'
+    RGB: False
+    DEPTH:
+      GT: False

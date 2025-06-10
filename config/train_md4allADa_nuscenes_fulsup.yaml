@@ -1,0 +1,19 @@
+EXPERIMENT_NAME: 'train-md4allADa-nuscenes'
+
+SAVE:
+  CHECKPOINT_PATH: 'log/checkpoints/md4allADa_nuscenes'
+
+LOAD:
+  DAY_NIGHT_TRANSLATION_PATH: 'datasets/nuScenes/trainval/translated/night'
+  DAY_CLEAR_DAY_RAIN_TRANSLATION_PATH: 'datasets/nuScenes/trainval/translated/rain'
+
+DATASET:
+  AUGMENTATION:
+    GAUSSIAN_NOISE:
+      PROBABILITY: 0.5
+    NORMALIZE:
+      MODE: 'Daytime'
+    DAY_NIGHT_TRANSLATION:
+      PROBABILITY: 0.33
+    DAY_CLEAR_DAY_RAIN_TRANSLATION:
+      PROBABILITY: 0.5
